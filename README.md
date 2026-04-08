@@ -1,0 +1,97 @@
+# ✦ Zeni Scripts — AI Content Script Generator
+
+> Generate compelling content scripts in **50+ languages**, powered by Claude AI.
+
+![Made with Claude AI](https://img.shields.io/badge/Powered%20by-Claude%20AI-38d4ff?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-50%2B-00f0b5?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-5b8fff?style=flat-square)
+
+---
+
+## 🌊 About
+
+**Zeni Scripts** is a free, browser-based AI script generator built for content creators. Whether you make YouTube videos, podcasts, reels, ads, or social media posts — Zeni Scripts helps you craft professional, ready-to-read scripts in seconds, in any language you choose.
+
+Built and designed by **Zeni** — content creator & script writer.
+
+---
+
+## ✨ Features
+
+- 🌐 **50+ Languages** — Tamil, Hindi, Arabic, Spanish, Japanese, French, and many more
+- 📹 **8 Content Types** — YouTube, Shorts/Reels, Podcasts, Ads, Tutorials, Explainers, Social Media, Storytelling
+- 🎭 **6 Tone Styles** — Engaging, Professional, Humorous, Educational, Storytelling, Inspirational
+- ⏱ **4 Duration Options** — 30 sec shorts to 20+ min deep dives
+- 📋 **Copy & Download** — One-click copy or save as .txt
+- 🕓 **Script History** — Last 6 generated scripts saved in session
+- 📊 **Live Stats** — Word count, character count, estimated read time
+- 🌊 **Beautiful Ocean UI** — Animated waves, bubbles, glassmorphism panels
+- 📱 **Fully Responsive** — Works on mobile, tablet, and desktop
+
+---
+
+## 🚀 Live Demo
+
+🔗 **[zeni-scripts.github.io](https://YOUR-USERNAME.github.io/zeni-scripts/)**
+
+> Replace with your actual GitHub Pages URL after deployment.
+
+---
+
+## 🛠 How to Use
+
+1. **Choose a language** — search from 50+ languages
+2. **Pick content type** — YouTube, podcast, ad, etc.
+3. **Enter your topic** — be as specific as you like
+4. **Set your audience & tone** — tailor the script to your viewers
+5. **Hit Generate Script** — your script streams in real time
+6. **Copy or download** — ready to use immediately
+
+---
+
+## 📁 Project Structure
+
+```
+zeni-scripts/
+│
+└── index.html       ← entire app (single file, no dependencies)
+```
+
+Everything is self-contained in one HTML file. No frameworks, no build tools, no npm — just open and use.
+
+---
+
+## ⚙️ Tech Stack
+
+| Technology | Usage |
+|---|---|
+| HTML / CSS / JS | Frontend — single file app |
+| Claude AI (Anthropic) | Script generation via streaming API |
+| Google Fonts | Playfair Display, Nunito, DM Mono |
+| GitHub Pages | Free hosting |
+
+---
+
+## 🌐 Supported Languages (50+)
+
+Tamil · Hindi · Telugu · Kannada · Malayalam · Marathi · Bengali · Gujarati · Punjabi · Urdu · Arabic · Spanish · Portuguese · French · German · Italian · Russian · Japanese · Chinese (Simplified) · Chinese (Traditional) · Korean · Turkish · Indonesian · Malay · Thai · Vietnamese · Filipino · Dutch · Polish · Swedish · Norwegian · Danish · Finnish · Greek · Hebrew · Persian · Swahili · Hausa · Yoruba · Igbo · Amharic · Zulu · Afrikaans · Romanian · Czech · Hungarian · Ukrainian · Catalan · Nepali · Sinhala · Burmese · Khmer · and more
+
+---
+
+## 📸 Connect
+
+Made by **Zeni** — follow for more content tools:
+
+- 📷 Instagram: [@zeni.ae1](https://www.instagram.com/zeni.ae1)
+
+---
+
+## 📄 License
+
+MIT License — free to use, modify, and share.
+
+---
+
+<div align="center">
+  Made with ✦ by <strong>Zeni</strong> &nbsp;·&nbsp; Powered by Claude AI
+</div>
